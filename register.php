@@ -117,7 +117,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
                 
                 <button type="submit" class="btn btn-primary btn-block">
-                  <a href="login.php"> ✨ Daftar Sekarang</a> 
+                    ✨ Daftar Sekarang
                 </button>
             </form>
             
